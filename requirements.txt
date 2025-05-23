@@ -1,0 +1,12 @@
+timm==0.9.16
+tokenizers==0.19.1
+torch==2.1.2+cu121
+torchaudio==2.1.2+cu121
+torchmetrics==1.4.2
+torchvision==0.16.2+cu121
+tqdm==4.66.4
+pandas==2.0.3
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorboardX==2.6.2.2
+pandas==2.0.3
