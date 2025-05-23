@@ -20,7 +20,8 @@
 ```Shell
 pip install -r requirements.txt
 ```
-~~~~
+
+
 ## Model Download
 
 
